@@ -1,11 +1,10 @@
-<<<<<<< HEAD
-planning de travail
-=======
+
+
 Planning de la semaine
->>>>>>> editBranch
-lundi
-mardi
-mercredi
-jeudi
-vendredi
-samedi et dimanche
+
+lundi =cobol
+mardi =java
+mercredi= hibernate
+jeudi = SQL
+vendredi=xml
+samedi et dimanche =PLS
